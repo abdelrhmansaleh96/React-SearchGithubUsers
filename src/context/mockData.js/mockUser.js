@@ -1,0 +1,38 @@
+export default {
+  login: "abdelrhmansaleh96",
+  id: 81262213,
+  node_id: "MDQ6VXNlcjgxMjYyMjEz",
+  avatar_url: "https://avatars.githubusercontent.com/u/81262213?v=4",
+  gravatar_id: "",
+  url: "https://api.github.com/users/abdelrhmansaleh96",
+  html_url: "https://github.com/abdelrhmansaleh96",
+  followers_url: "https://api.github.com/users/abdelrhmansaleh96/followers",
+  following_url:
+    "https://api.github.com/users/abdelrhmansaleh96/following{/other_user}",
+  gists_url: "https://api.github.com/users/abdelrhmansaleh96/gists{/gist_id}",
+  starred_url:
+    "https://api.github.com/users/abdelrhmansaleh96/starred{/owner}{/repo}",
+  subscriptions_url:
+    "https://api.github.com/users/abdelrhmansaleh96/subscriptions",
+  organizations_url: "https://api.github.com/users/abdelrhmansaleh96/orgs",
+  repos_url: "https://api.github.com/users/abdelrhmansaleh96/repos",
+  events_url: "https://api.github.com/users/abdelrhmansaleh96/events{/privacy}",
+  received_events_url:
+    "https://api.github.com/users/abdelrhmansaleh96/received_events",
+  type: "User",
+  site_admin: false,
+  name: "abdelrhman saleh",
+  company: null,
+  blog: "",
+  location: "Egypt/Cairo",
+  email: null,
+  hireable: null,
+  bio: "A motivated Self-taught front-end web developer",
+  twitter_username: null,
+  public_repos: 6,
+  public_gists: 0,
+  followers: 1,
+  following: 0,
+  created_at: "2021-03-23T19:40:40Z",
+  updated_at: "2022-05-12T13:29:08Z",
+};
